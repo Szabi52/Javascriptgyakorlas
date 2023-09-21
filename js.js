@@ -74,4 +74,4 @@ for(var i=0; i<form.elements.length;i++){
 }
 
 const formInputs=document.querySelectorAll('form input');
-formInputs.forEach( (x) => {console.log(x.name+" = "+elem.value) } );
+formInputs.forEach( (x) => {console.log(x.name+" = "+elem.value) } ); FASZSÁG
